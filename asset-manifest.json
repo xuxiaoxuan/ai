@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ai/static/css/main.f855e6bc.css",
+    "main.js": "/ai/static/js/main.3c7e374b.js",
+    "static/js/453.f973c6d9.chunk.js": "/ai/static/js/453.f973c6d9.chunk.js",
+    "static/media/chatgpt-icon.svg": "/ai/static/media/chatgpt-icon.927bf6bfd681beab116978c99d166ed9.svg",
+    "static/media/openai.svg": "/ai/static/media/openai.625019fb7fdd3bd538d0c2f226d5fc9b.svg",
+    "index.html": "/ai/index.html",
+    "main.f855e6bc.css.map": "/ai/static/css/main.f855e6bc.css.map",
+    "main.3c7e374b.js.map": "/ai/static/js/main.3c7e374b.js.map",
+    "453.f973c6d9.chunk.js.map": "/ai/static/js/453.f973c6d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3c7e374b.js"
+  ]
+}
